@@ -1,0 +1,9 @@
+1,Laptop,Device,asas,0,23000.0,1,dfwdsf,sda
+2,H,a,das,2,122.0,1,sdsd,sda
+3,dfsdfs,fdsfdsds,dsfdsfds,1,500.0,2,fds,fsds
+4,Laptp,ew,ew,2,350.0,2,dss,fdsds
+5,Nahian,C,G,0,0.0,0,GG,GG
+6,11,11,11,11,11.0,11,11,11
+7,22,22,22,21,22.0,22,22,22
+8,33,33,33,33,33.0,33,33,33
+9,44,44,44,44,44.0,44,44,44
